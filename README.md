@@ -1,0 +1,2 @@
+# jsonMethod
+For educational use.
